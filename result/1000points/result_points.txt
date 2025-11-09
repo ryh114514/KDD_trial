@@ -1,0 +1,110 @@
+﻿
+dnnv1_6聚类评估指标:
+轮廓系数: 0.4462
+Calinski-Harabasz指数: 2427.9624
+Davies-Bouldin指数: 0.8901
+
+dnnv1_5聚类评估指标:
+轮廓系数: 0.5575
+Calinski-Harabasz指数: 3197.2022
+Davies-Bouldin指数: 0.6113
+
+dnnv1_4聚类评估指标:
+轮廓系数: 0.5617
+Calinski-Harabasz指数: 3311.2669
+Davies-Bouldin指数: 0.6107
+
+dnnv1_3聚类评估指标:
+轮廓系数: 0.5429
+Calinski-Harabasz指数: 2876.8284
+Davies-Bouldin指数: 0.5063
+
+dnnv2_6聚类评估指标:
+轮廓系数: 0.6283
+Calinski-Harabasz指数: 8490.8633
+Davies-Bouldin指数: 0.6765
+
+dnnv2_5聚类评估指标:
+轮廓系数: 0.7157
+Calinski-Harabasz指数: 9878.3914
+Davies-Bouldin指数: 0.3995
+
+dnnv2_4聚类评估指标:
+轮廓系数: 0.6623
+Calinski-Harabasz指数: 6091.6932
+Davies-Bouldin指数: 0.4911
+
+dnnv2_3聚类评估指标:
+轮廓系数: 0.6311
+Calinski-Harabasz指数: 3885.8931
+Davies-Bouldin指数: 0.4399
+
+kmeans_6聚类评估指标:
+轮廓系数: 0.6338
+Calinski-Harabasz指数: 8462.3818
+Davies-Bouldin指数: 0.6700
+
+kmeans_5聚类评估指标:
+轮廓系数: 0.7157
+Calinski-Harabasz指数: 9878.3863
+Davies-Bouldin指数: 0.3995
+
+kmeans_4聚类评估指标:
+轮廓系数: 0.6618
+Calinski-Harabasz指数: 6091.2730
+Davies-Bouldin指数: 0.4932
+
+kmeans_3聚类评估指标:
+轮廓系数: 0.6311
+Calinski-Harabasz指数: 3885.8911
+Davies-Bouldin指数: 0.4399
+
+dbscan聚类评估指标:
+轮廓系数: 0.600
+Calinski-Harabasz指数: 4575.524
+Davies-Bouldin指数: 0.468
+
+OPTICS聚类评估指标:
+轮廓系数: 0.668
+Calinski-Harabasz指数: 7886.176
+Davies-Bouldin指数: 2.009
+
+层次3聚类评估指标:
+轮廓系数: 0.632
+Calinski-Harabasz指数: 3881.413
+Davies-Bouldin指数: 0.437
+
+层次4聚类评估指标:
+轮廓系数: 0.662
+Calinski-Harabasz指数: 6091.690
+Davies-Bouldin指数: 0.491
+
+层次5聚类评估指标:
+轮廓系数: 0.715
+Calinski-Harabasz指数: 9836.858
+Davies-Bouldin指数: 0.400
+
+层次6聚类评估指标:
+轮廓系数: 0.600
+Calinski-Harabasz指数: 8395.624
+Davies-Bouldin指数: 0.722
+
+谱6聚类评估指标:
+轮廓系数: 0.640
+Calinski-Harabasz指数: 8533.586
+Davies-Bouldin指数: 0.644
+
+谱5聚类评估指标:
+轮廓系数: 0.716
+Calinski-Harabasz指数: 9878.386
+Davies-Bouldin指数: 0.400
+
+谱4聚类评估指标:
+轮廓系数: 0.662
+Calinski-Harabasz指数: 6091.690
+Davies-Bouldin指数: 0.491
+
+谱3聚类评估指标:
+轮廓系数: 0.632
+Calinski-Harabasz指数: 3881.413
+Davies-Bouldin指数: 0.437
